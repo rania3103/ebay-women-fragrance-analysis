@@ -1,6 +1,6 @@
 # 🧴🌸🛍️𝕖𝔹𝕒𝕪 𝕎𝕠𝕞𝕖𝕟'𝕤 𝔽𝕣𝕒𝕘𝕣𝕒𝕟𝕔𝕖 𝔸𝕟𝕒𝕝𝕪𝕤𝕚𝕤🧴🌬️🫙
 
-<img src="">
+<img src="perfume.jpg">
 
 ## Overview 🔍
 This repository contains an analysis of women's fragrance sales data from eBay in 2024. The dataset was obtained from Kaggle. The analysis aims to uncover trends and insights.
