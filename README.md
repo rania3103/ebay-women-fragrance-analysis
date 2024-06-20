@@ -27,7 +27,7 @@ The dataset used for this analysis can be found on Kaggle [here](https://www.kag
 3. **Correlation Analysis:** Determine correlations between different variables such as price, brand, and sales.
 4. **Visualizations:** Create visual representations of the data to better understand trends and patterns in the market.
 
-## Findings 
+## Findings✨🕵
 - Products with lower prices tend to have higher sales, which was inferred from scatter plots and correlation analysis.
 - The brand of a fragrance has a minor influence on its price.
 - Sales have shown an increasing trend over time, while prices have slightly decreased.
