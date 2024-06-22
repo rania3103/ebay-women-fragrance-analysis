@@ -33,3 +33,8 @@ The dataset used for this analysis can be found on Kaggle [here](https://www.kag
 - Sales have shown an increasing trend over time, while prices have slightly decreased.
 - Different types of fragrance products have varying price ranges.
 - Higher availability is associated with higher sales, indicating the importance of stock levels in driving sales.
+
+## 👩‍💻 Author
+
+- GitHub: [@rania3103](https://github.com/rania3103)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/rania-abassi-24105a249)
